@@ -47,7 +47,3 @@ Since Vaultlens holds no data about you on any server, there is nothing to reque
 ## Changes
 
 If this policy changes, the updated version will be posted at this URL with a new effective date.
-
-## Contact
-
-Questions about privacy: **mail@joeheaton.com**

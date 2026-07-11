@@ -7,8 +7,6 @@ aliases: [support page, help]
 
 > Draft for publication. App Store requires a **public support URL**. Publish this (same host as the privacy policy is fine) and put the URL in App Store Connect. A page backed by an email counts. Launch context: [[product/launch-checklist]].
 
-**Contact:** **mail@joeheaton.com** — I read every message. Please include your iOS version and iPhone model for anything that looks like a bug.
-
 ## What is Vaultlens?
 
 Vaultlens inspects your Obsidian vaults stored in iCloud Drive — surfacing vault health, structure, activity, and AI-agent-editing signals — **without opening Obsidian** and **without your files ever leaving your device**.
@@ -38,9 +36,6 @@ Open the app and let it rescan the pinned vault — widgets refresh from the lat
 
 **A vault shows "lost access" or won't scan.**
 iCloud occasionally invalidates a folder bookmark (e.g. after moving the folder). Remove and re-add the vault to re-grant access.
-
-**Requesting a feature or reporting a bug?**
-Email **mail@joeheaton.com** — feature ideas are genuinely welcome.
 
 ## Privacy
 

@@ -9,7 +9,7 @@ aliases: [privacy policy]
 
 **Effective date:** _[fill on publish]_
 **Applies to:** Vaultlens for iOS
-**Developer:** Joseph Heaton · mail@joeheaton.com
+**Developer:** Joseph Heaton
 
 ## The short version
 
